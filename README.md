@@ -1,4 +1,4 @@
-# trabzon-info
+# trabzon-infoo
 #!/usr/bin/env python3
 else:
 return None, f"API hatası: {resp.status_code}"
