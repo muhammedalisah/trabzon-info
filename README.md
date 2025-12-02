@@ -84,4 +84,6 @@ git commit -m "İlk commit: Trabzon info CLI"
 git remote add origin https://github.com/<kullanici_adiniz>/trabzon-info.git
 
 
-
+# 5. Push et
+git branch -M main
+git push -u origin main
